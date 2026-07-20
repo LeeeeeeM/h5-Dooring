@@ -12,6 +12,9 @@
   <a href="#" target="_blank">
     <img alt="license:GPL3.0" src="https://img.shields.io/badge/license-GPL3.0-yellow.svg" />
   </a>
+ <a href="https://atomgit.com/MrXujiang/H5-Dooring">
+           <img alt="AtomGitGStar" src="https://atomgit.com/MrXujiang/H5-Dooring/star/badge.svg" />
+  </a>
 </p>
 
 > H5-Dooring is a powerful, open source, free H5 visual page configuration solution dedicated to providing a simple, convenient, professional and reliable, unlimited set of H5 landing page best practices. The technology stack is mainly react, developed in the background using nodejs.
@@ -24,15 +27,14 @@
 
 > ✨ note: If the official visit is too slow, visit the [H5-Dooring for Singapore](https://dooring.vip)
 
-🎉福利🎉: 最近基于nextjs实现的多维表格正式上线, 前100名用户仅需399元, 感兴趣可以参考体验一下.
-
 - 多维表格编辑器: http://pxcharts.com
+- 协同AI文档JitWord：https://jitword.com
 
 English | [简体中文](./zh.md)
 
 new doc: [private deployment process](http://h5.dooring.cn/docz/source-list/H5-Dooring/deploy_en)
 
-website: [H5-Dooring](https://dooring.net)
+website: [H5-Dooring](https://dooring.vip)
 
 tech blog: [sharing of technology](https://dev.to/alex_xu/we-made-a-page-visualization-to-build-an-open-source-project-1l1p)
 
@@ -40,15 +42,15 @@ Related products:
 
 - [V6.Dooring | Large screen visual editor](https://github.com/MrXujiang/v6.dooring.public)
 - [dooring-electron-lowcode | Dooring desktop software](https://github.com/MrXujiang/dooring-electron-lowcode)
-- [flowmix/docx | 多模态文档引擎](http://flowmix.tunrtip.cn/docx)
+- [jitword | web端word协同文档编辑器](https://jitword.com)
+- [jitknow | AI知识库](https://know.jitword.com)
 - [Dooring-Saas](https://dooring.vip)
-- [Dooring 智图](https://magic.dooring.vip)
 
 ## Author
 
 👤 **alex_xu**
 
-- Website: http://h5.dooring.cn
+- Website: https://mrxujiang.github.io
 - Github: [@MrXujiang](https://github.com/MrXujiang)
 - new tech share: [Dooring2.7+最新技术分享&复盘](https://github.com/MrXujiang/h5-Dooring/issues/145)
 
@@ -64,7 +66,7 @@ Give a ⭐️ if this project helped you!
 
 ## Privatization Deployment documentation
 
-- address: http://h5.dooring.cn/docz
+- address: https://dooring.vip
 - ⭐️ lowcode component list: http://h5.dooring.cn/docz/components/intro
 - List of answers: http://h5.dooring.cn/docz/source-list/H5-Dooring/guide
 - gitee mini code: https://gitee.com/lowcode-china/h5_-dooring
@@ -222,11 +224,6 @@ Twitter Account：@H5Dooring
 * [使用 gin+vue 进行极速开发的全栈开发基础平台](https://github.com/flipped-aurora/gin-vue-admin)
 * [DevUI 中后台产品开源前端解决方案](https://github.com/DevCloudFE/ng-devui)
 
-## Sponsored
-
-Open source is not easy, with your sponsorship, we will do better
-
-<img src="http://cdn.dooring.cn/dr/WechatIMG2.jpeg" width="180px" />
 
 ## Technical feedback and communication
 
